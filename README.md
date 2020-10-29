@@ -20,7 +20,7 @@ If you encounter any issue, please DM🙏
 
 ### MD Files with specific stack
 
- - PHP/Laravel Stack https://github.com/zeevx/DSC-UI-WEB-LEADS/php.MD
- - Python/Flask/Django Stack https://github.com/zeevx/DSC-UI-WEB-LEADS/python.MD
- - Node/React/Vue Stack https://github.com/zeevx/DSC-UI-WEB-LEADS/nodejs.MD
- - WordPress Stack https://github.com/zeevx/DSC-UI-WEB-LEADS/wordpress.MD
+ - PHP/Laravel Stack https://github.com/zeevx/DSC-UI-WEB-LEADS/blob/master/php.md
+ - Python/Flask/Django Stack https://github.com/zeevx/DSC-UI-WEB-LEADS/blob/master/python.md
+ - Node/React/Vue Stack https://github.com/zeevx/DSC-UI-WEB-LEADS/blob/master/nodejs.md
+ - WordPress Stack https://github.com/zeevx/DSC-UI-WEB-LEADS/blob/master/wordpress.md
