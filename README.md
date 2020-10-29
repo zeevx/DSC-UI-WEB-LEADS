@@ -10,7 +10,7 @@ The process of becoming a web clan lead is simple:
  - Clone to your PC
  - Update the MD file for your stack with your information.
  - Push the update
- - Create a pull request
+ - Create a pull request(please state the stack you updated in the pull request)
  - I'll then merge
 
 That's all!😁👏
