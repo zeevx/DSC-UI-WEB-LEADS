@@ -17,3 +17,10 @@ That's all!😁👏
 
 I'm doing this to keep info and to make it public too.
 If you encounter any issue, please DM🙏
+
+### MD Files with specific stack
+
+ - PHP/Laravel Stack https://github.com/zeevx/DSC-UI-WEB-LEADS/php.MD
+ - Python/Flask/Django Stack https://github.com/zeevx/DSC-UI-WEB-LEADS/python.MD
+ - Node/React/Vue Stack https://github.com/zeevx/DSC-UI-WEB-LEADS/nodejs.MD
+ - WordPress Stack https://github.com/zeevx/DSC-UI-WEB-LEADS/wordpress.MD
