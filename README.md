@@ -14,5 +14,6 @@ The process of becoming a web clan lead is simple:
  - I'll then merge
 
 That's all!😁👏
+
 I'm doing this to keep info and to make it public too.
 If you encounter any issue, please DM🙏
