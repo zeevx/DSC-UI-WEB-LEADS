@@ -6,6 +6,9 @@ Follow the format below:
 
  Name        -   Email                -  Github Link             
 -----------------------------------------------------------------
- Adams Paul     -  adamsohiani@gmail.com  -  https://github.com/zeevx
+ Adams Paul     -  adamsohiani@gmailcom  -  https://github.com/zeevx 
+ 
+Adeleke Awwal O.-  maadeleke02@gmail.com -  https://github/Awwal2002
  
 Farayola Joshua -  farayolajoshua@gmail.com - https://github.com/farayolaj
+
