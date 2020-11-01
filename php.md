@@ -10,4 +10,6 @@ Follow the format below:
  
  Dominion Olorunfemi        -  dlorunfemi@gmailcom      -  https://github.com/dormynioin 
  
- Akinola Ayomide            -  drayfocus@gmailcom      -   https://github.com/Doctordrayfocus 
+ Akinola Ayomide            -  drayfocus@gmailcom       -   https://github.com/Doctordrayfocus 
+
+Olarewaju Mojeed             - olarewajumojeed9@gmail.com -  https://github.com/Lowkey1729
