@@ -15,3 +15,5 @@ Farayola Joshua -  farayolajoshua@gmail.com - https://github.com/farayolaj
 Oluwakeye John - bjohnoluwakeye@gmail.com - https://github.com/oluwakeye-john
 
 Bamgboye Taiwo - bamtaiwo9@gmail.com - https://github.com/Bamtaiwo9
+
+ Caleb Adepitan - adepitancaleb@gmail.com - https://github.com/calebpitan
