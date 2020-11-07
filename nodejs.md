@@ -17,3 +17,5 @@ Oluwakeye John - bjohnoluwakeye@gmail.com - https://github.com/oluwakeye-john
 Bamgboye Taiwo - bamtaiwo9@gmail.com - https://github.com/Bamtaiwo9
 
 Asenuga Adeolu - deolu.asenuga@gmail.com - https://github.com/kiishi
+
+Caleb Adepitan - adepitancaleb@gmail.com - https://github.com/calebpitan
